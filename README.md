@@ -107,3 +107,7 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 最后，给大家一个小建议：重要项目或有时间节点的工作，最好提前完成，别卡着deadline才用Midjourney。毕竟任何网络服务都有可能出现临时故障，提前做好时间规划才是万全之策。
 
 总之，选择靠谱的Midjourney合租平台，大部分使用问题都能得到及时解决。遇到问题别慌，按上面的步骤来，基本都能妥妥解决！
+
+<p align="center"><a href="https://nf.video/BTgSc">立即前往银河录像局官网</a></p>
+
+<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即前往星际放映厅官网</a></p>
