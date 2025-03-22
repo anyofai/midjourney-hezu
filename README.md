@@ -40,12 +40,12 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 ### 购买Midjourney合租帐号：<a href="https://nf.video/BTgSc">银河录像局</a>
 
+![购买Midjourney合租帐号首选：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-2.jpg)
+
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI（可享九折优惠）
 * 银河录像局支付方式：支付宝
 * Midjourney拼车价格：27元/月（折后）
-
-![购买Midjourney合租帐号首选：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-2.jpg)
 
 说到靠谱的Midjourney合租平台，银河录像局绝对是个最佳的选择。这家2019年成立的老牌合租平台，背靠杭州崇宇信息科技有限公司，手握正规的ICP经营许可证，妥妥的正规军。
 
@@ -61,12 +61,12 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 ### 购买Midjourney独享帐号：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
+![购买Midjourney独享帐号：星际放映厅](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-3.png)
+
 * 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI（可享九折优惠）
 * 星际放映厅支付方式：支付宝
 * Midjourney拼车价格：234元/月（折后）
-
-![购买Midjourney独享帐号：星际放映厅](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-3.png)
 
 除了银河录像局，星际放映厅也是一个值得推荐的Midjourney合租平台。虽然成立于2023年，算是相对较新的平台，但他们在浙江完成了正规备案（浙ICP备2023017856号），合法性方面完全不用担心。
 
