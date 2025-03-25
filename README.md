@@ -38,7 +38,7 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 在了解了Midjourney合租的诸多好处后，接下来最关键的问题就是：哪个合租平台最靠谱？毕竟市面上的Midjourney拼车平台不少，鱼龙混杂，选错了不仅浪费钱，还可能泄露个人信息。目前2025年最值得推荐的两家平台当属"银河录像局"和"星际放映厅"，它们凭借稳定的服务质量、专业的技术支持和良好的用户口碑，在众多合租平台中脱颖而出，无论你是AI绘画新手还是资深用户，这两家平台都能很好地满足你的需求。
 
-### 一、购买Midjourney合租帐号首选：<a href="https://nf.video/BTgSc">银河录像局</a>
+### （一）购买Midjourney合租帐号首选：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 ![购买Midjourney合租帐号首选：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-2.jpg)
 
@@ -59,7 +59,7 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 ****
 
-### 二、购买Midjourney独享帐号首选：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+### （二）购买Midjourney独享帐号首选：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![购买Midjourney独享帐号：星际放映厅](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-3.png)
 
