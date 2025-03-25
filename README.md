@@ -40,7 +40,7 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 ### （一）购买Midjourney合租帐号首选：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![购买Midjourney合租帐号首选：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-2.jpg)
+![购买Midjourney合租帐号首选：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu--2.png)
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI（可享九折优惠）
