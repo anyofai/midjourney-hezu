@@ -59,11 +59,11 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 ****
 
-### （二）购买Midjourney独享帐号首选：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+### （二）购买Midjourney独享帐号首选：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 ![购买Midjourney独享帐号：星际放映厅](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-3.png)
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI（可享九折优惠）
 * 星际放映厅支付方式：支付宝
 * Midjourney独享帐号价格：234元/月（折后）
@@ -76,7 +76,7 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 总的来说，如果你更看重独享账号的使用体验，不介意多花一点钱，星际放映厅会是个非常不错的选择。当然，如果预算有限，还是建议优先考虑前面提到的银河录像局，毕竟性价比更高一些。
 
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即前往星际放映厅官网</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即前往星际放映厅官网</a></p>
 
 ****
 
