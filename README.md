@@ -1,6 +1,6 @@
 # 最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐！
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年5月27日</p>
 
 ![最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐！](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-1.png)
 
@@ -110,7 +110,7 @@ Midjourney的官方价格确实不便宜，标准版每月需要30美元（约21
 
 <p align="center"><a href="https://nf.video/BTgSc">立即前往银河录像局官网</a></p>
 
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即前往星际放映厅官网</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即前往星际放映厅官网</a></p>
 
 ## 与合租Midjourney相关的其他文章：
 
