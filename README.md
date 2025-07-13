@@ -32,7 +32,7 @@
 
 ### Midjourney合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![Midjourney合租平台（一）：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu--2.png)
+![Midjourney合租平台（一）：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-4.png)
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI（可享九折优惠）
@@ -45,6 +45,8 @@
 
 注意：银河录像局也提供Midjourney官方标准会员合租和Midjourney官方Pro会员合租服务！
 
+![银河录像局提供的Midjourney合租价格](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-5.png)
+
 截至到目前为止，银河录像局已经服务了超过100万用户，累计成交超过1000万单，业务覆盖全球100多个国家和地区。不仅提供ChatGPT Plus、Claude Pro、Midjourney、Grok、Luma、Runway等AI服务的合租服务，还提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video等流媒体账号合租服务，甚至还能帮你搞定美区Apple ID、Google账号等。如果你想一站式解决各种国际数字服务，这个平台真的很值得试试。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即前往银河录像局官网</a></p>
@@ -52,6 +54,8 @@
 ****
 
 ### Midjourney合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+
+![Midjourney合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-6.png)
 
 * 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 * 环球巴士优惠码：ANYOFAI（可享九折优惠）
@@ -62,7 +66,11 @@
 
 使用环球巴士合租Midjourney账号的步骤也很简单：先打开环球巴士官网，在页面右侧的导航栏点击“AIGC”，然后点击“加载更多”，找到“Midjourney镜像版”，再点“购票上车”按钮，选择你需要的时长和套餐分类，最后点击“立即购买”按钮。接下来，你只需要按照系统的提示一步步完成就行了。
 
+![通过环球巴士合租Midjourney的操作步骤](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-7.png)
+
 环球巴士上的Midjourney合租价格也比较便宜，它的限时体验版每月只要8.88元（Fast模式10次，Relax模式20次）；基础版每月39.88元（Fast模式30次，Relax模式100次）；进阶版每月69.88元（Fast模式60次，Relax模式300次）；专业版每月99.88元（Fast模式100次，Relax模式600次），大家可以根据自己平时的需求选择合适的套餐。
+
+![环球巴士提供的Midjourney合租价格](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-8.png)
 
 现如今的环球巴士已经支持十几种主流流媒体账号的合租，比如Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount和NBA等。除此之外，环球巴士还支持ChatGPT、Midjourney、Claude等AI工具账号合租，还有Office 365、iCloud+、Apple One等数字类服务。总之，无论你有什么需求，都能在这里一站式搞定，省心又靠谱。
 
