@@ -26,7 +26,7 @@
 
 ### Midjourney合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![Midjourney合租平台（一）：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-4.png)
+![Midjourney合租平台（一）：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-4-1.png)
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI（可享九折优惠）
