@@ -49,7 +49,7 @@
 
 ### Midjourney合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
-![Midjourney合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-6.png)
+![Midjourney合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-6-1.png)
 
 * 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 * 环球巴士优惠码：ANYOFAI（可享九折优惠）
