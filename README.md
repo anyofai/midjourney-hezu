@@ -39,7 +39,7 @@
 
 注意：银河录像局也提供Midjourney官方标准会员合租和Midjourney官方Pro会员合租服务！
 
-![银河录像局提供的Midjourney合租价格](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-5.png)
+![银河录像局提供的Midjourney合租价格](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-5-1.png)
 
 截至到目前为止，银河录像局已经服务了超过100万用户，累计成交超过1000万单，业务覆盖全球100多个国家和地区。不仅提供ChatGPT Plus、Claude Pro、Midjourney、Grok、Luma、Runway等AI服务的合租服务，还提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video等流媒体账号合租服务，甚至还能帮你搞定美区Apple ID、Google账号等。如果你想一站式解决各种国际数字服务，这个平台真的很值得试试。
 
