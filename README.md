@@ -1,6 +1,6 @@
 # 最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐！
 
-<p align="center">最近更新于：2025年12月4日</p>
+<p align="center">最近更新于：2025年12月12日</p>
 
 ![最新Midjourney合租教程：2025年最靠谱的Midjourney拼车平台推荐！](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-1.png)
 
@@ -105,11 +105,11 @@
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 * <a href="https://github.com/anyofai/gemini-pro">Gemini Pro购买</a>：如何购买Gemini Pro账号？如何合租Gemini Pro会员？如何为Gemini Pro代充值？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需15元！
