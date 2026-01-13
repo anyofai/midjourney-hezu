@@ -1,6 +1,6 @@
 # 最新Midjourney合租教程：2026年最靠谱的Midjourney拼车平台推荐！
 
-<p align="center">最近更新于：2026年1月5日</p>
+<p align="center">最近更新于：2026年1月13日</p>
 
 ![最新Midjourney合租教程：2026年最靠谱的Midjourney拼车平台推荐！](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-1.png)
 
