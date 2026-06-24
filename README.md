@@ -1,6 +1,6 @@
 # 最新Midjourney合租教程：2026年最靠谱的Midjourney拼车平台推荐！
 
-<p align="center">最近更新于：2026年4月17日</p>
+<p align="center">最近更新于：2026年6月24日</p>
 
 ![最新Midjourney合租教程：2026年最靠谱的Midjourney拼车平台推荐！](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-1.png)
 
@@ -106,9 +106,8 @@
 * <a href="https://github.com/anyofai/gemini-pro">Gemini使用教程</a>：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？
 * <a href="https://github.com/anyofai/claude-pro">Claude注册</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
-* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.4、Claude Opus 4.7、Grok-4.1、Gemini-3.1 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.5、Claude Opus 4.8、Grok-4.3、Gemini-3.1 Pro等大模型！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.4、DeepSeek-R1、Grok-4.1和Gemini-3.1 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需21元！
