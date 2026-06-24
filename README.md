@@ -28,7 +28,6 @@
 
 ![Midjourney合租平台（一）：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-4-1.png)
 
-* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI（可享九折优惠）
 * 银河录像局支付方式：支付宝
 * Midjourney拼车价格：27元/月（折后）
@@ -51,7 +50,6 @@
 
 ![Midjourney合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-6-1.png)
 
-* 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 * 环球巴士优惠码：ANYOFAI（可享九折优惠）
 * 环球巴士支付方式：支付宝
 * Midjourney拼车价格：36元/月（折后）
